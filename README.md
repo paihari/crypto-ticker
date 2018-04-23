@@ -1,3 +1,5 @@
+![Gundi](https://paihari.github.io/repo/gundi-logo.png)
+
 # Crypto-Ticker
 
 Simple gradle Java application, fetches the ticker of Top 100 Crypto Coin, stores in the database
